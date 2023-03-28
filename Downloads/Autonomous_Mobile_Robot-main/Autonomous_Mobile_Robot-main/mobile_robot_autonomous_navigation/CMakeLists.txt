@@ -20,6 +20,7 @@ find_package(catkin REQUIRED COMPONENTS
   std_srvs
   tf
   tf2
+  joint_limits_interface
 )
 
 ## System dependencies are found with CMake's conventions
